@@ -35,6 +35,10 @@ void adc_example()
  int main(void) {
 
 
+	 /*
+	  * Ceci est un autre test
+	  */
+	 
 	 disableWatchdog();
 	 initModesAndClock();
 	 
