@@ -35,7 +35,7 @@ void adc_example()
  int main(void) {
 
 	 /*
-	 Ceci est un nouveau test. Toujours plus.
+	 Ceci est un nouveau test. Toujours plus. Coucou.
 	 */
 
 	 /*
