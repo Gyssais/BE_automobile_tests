@@ -40,8 +40,8 @@ void adc_example()
 	 */
 
 	 /*
-	  * Ceci est un autre test
-	  */
+	  * On va utiliser les branches : c'est bien que de faire des push sur master n'importe comment
+	  */ 
 	 
 	 disableWatchdog();
 	 initModesAndClock();
